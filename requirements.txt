@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+nltk
+tqdm
+ipywidgets
+scipy
+torch
+torchvision
+torchaudio
+transformers
+scipy
